@@ -11,7 +11,7 @@
   </em>
 </p>
 
-<br/><br/>
+<br/>
 ## 💻 Tech Stack
 
 ### 🖥️ Languages & Core  
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> &nbsp;
 </p>
 
-<br/><br/>
+<br/>
 
 ## 🤝 Let's Connect
 I’m always excited to collaborate on meaningful projects or exchange fresh ideas. Let’s connect and build something impactful together !
@@ -43,6 +43,16 @@ I’m always excited to collaborate on meaningful projects or exchange fresh ide
     <a href="mailto:sufiana.az15@gmail.com" target="_blank"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"/>    
     </a> 
+</p>
+
+<br/>
+
+## 📊 GitHub Stats  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 
