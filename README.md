@@ -33,15 +33,14 @@
 
 
 ## 🤝 Let's Connect
-I’m always excited to collaborate on meaningful projects or exchange fresh ideas. Let’s connect and build something impactful together!"
+I’m always excited to collaborate on meaningful projects or exchange fresh ideas. Let’s connect and build something impactful together !
 
 <p align="left"> 
-  <!-- WhatsApp --> 
     <a href="https://t.me/sufianaaiza" target="_blank"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" alt="Telegram"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" alt="Telegram"/> 
     </a> &nbsp;&nbsp;&nbsp; <!-- Gmail --> 
     <a href="mailto:sufiana.az15@gmail.com" target="_blank"> 
-      <img src="https://www.svgrepo.com/show/503011/envelope-circle.svg" width="40" alt="Email"/>    
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"/>    
     </a> 
 </p>
 
