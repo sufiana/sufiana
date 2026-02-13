@@ -3,75 +3,47 @@
 </p>
 
 <h2 align="center">Hi 👋, I'm Sufiana Az</h2>
-<h4 align="center">Web Programmer | Backend & Full-Stack Developer</h4>
+<h4 align="center">Web Programmer | Full-Stack Developer</h4>
 
 <p align="center">
   <em>
-    Web Programmer with 5+ years of experience in designing, developing, and maintaining
-    scalable, secure, and user-friendly web applications.
+I am a Web Programmer with over 5 years of experience in building and maintaining web applications. I enjoy working across both frontend and backend technologies, and I’m always eager to explore new tools and frameworks to deliver scalable and impactful solutions
   </em>
 </p>
 
 ---
+💻 Tech Stack
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg  
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg  
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+
+⚙️ Frameworks & Libraries
+
+
+
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="100%" valign="top">
 
-## 👩‍💻 Personal Info
-
-📧 **Email**  
-[sufiana.az15@gmail.com](mailto:sufiana.az15@gmail.com)
-
-📱 **WhatsApp**  
-[Chat on WhatsApp](https://wa.me/6282162478837)
-
-💼 **Profession**  
-Web Programmer
-
-🌐 **Experience Field**
-- Government Information Systems  
-- Academic / Education Systems  
-- Business & Enterprise Applications  
-
-🧠 **Strengths**
-- Fast learner  
-- Detail-oriented  
-- Responsible & consistent  
-- Strong problem-solving mindset  
-
-🤝 **Collaboration**
-- Git (team-based workflow)
-- Code review
-- Task & sprint-based development
-
-</td>
-<td width="65%" valign="top">
-
-## 💻 About Me
-
-I am a **Web Programmer with more than 5 years of experience** building and maintaining
-web-based applications. I specialize in developing new features, fixing bugs,
-refactoring legacy systems, and improving performance and security.
-
-I have successfully delivered **government**, **academic**, and **business applications**,
-with a strong focus on **scalability, security, and usability** to meet real client needs.
-
----
 
 ## 🚀 Tech Stack
 
 **Frameworks & Libraries**
+- Php
+- Html
 - Laravel  
 - Yii  
 - Express.js  
 - Node.js  
 - React.js  
 - Next.js  
+- git
 
 **Databases**
 - MySQL  
 - PostgreSQL  
+- Mongo Db
 
 ---
 
