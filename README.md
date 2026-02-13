@@ -53,8 +53,6 @@ I’m always excited to collaborate on meaningful projects or exchange fresh ide
 <p align="left"> 
   <!-- GitHub Streak Stats --> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufiana&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="180"/> &nbsp;&nbsp;&nbsp; <!-- GitHub Overall Stats --> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sufiana&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/> &nbsp;&nbsp;&nbsp; <!-- Top Languages --> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiana&layout=compact&theme=radical" alt="Top Languages" height="180"/> 
 </p>
 
 
