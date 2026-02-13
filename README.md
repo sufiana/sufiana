@@ -38,7 +38,7 @@ I’m always excited to collaborate on meaningful projects or exchange fresh ide
 <p align="left"> 
     <a href="https://t.me/sufianaaiza" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" alt="Telegram"/> 
-    </a> &nbsp;&nbsp;&nbsp; <!-- Gmail --> 
+    </a> 
     <a href="mailto:sufiana.az15@gmail.com" target="_blank"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"/>    
     </a> 
