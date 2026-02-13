@@ -11,7 +11,7 @@
   </em>
 </p>
 
-
+<br/><br/>
 ## 💻 Tech Stack
 
 ### 🖥️ Languages & Core  
@@ -31,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> &nbsp;
 </p>
 
+<br/><br/>
 
 ## 🤝 Let's Connect
 I’m always excited to collaborate on meaningful projects or exchange fresh ideas. Let’s connect and build something impactful together !
@@ -38,7 +39,7 @@ I’m always excited to collaborate on meaningful projects or exchange fresh ide
 <p align="left"> 
     <a href="https://t.me/sufianaaiza" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" alt="Telegram"/> 
-    </a> 
+    </a> &nbsp;
     <a href="mailto:sufiana.az15@gmail.com" target="_blank"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"/>    
     </a> 
@@ -46,45 +47,3 @@ I’m always excited to collaborate on meaningful projects or exchange fresh ide
 
 
 
-
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-
-## 🚀 Tech Stack
-
-**Frameworks & Libraries**
-- Php
-- Html
-- Laravel  
-- Yii  
-- Express.js  
-- Node.js  
-- React.js  
-- Next.js  
-- git
-
-**Databases**
-- MySQL  
-- PostgreSQL  
-- Mongo Db
-
----
-
-## 🎯 What I Focus On
-- Clean & maintainable code architecture  
-- REST API & system integration  
-- Performance optimization  
-- Secure backend development  
-
-</td>
-</tr>
-</table>
-
----
-
-<p align="center">
-  <i>“Building reliable systems that people can trust and scale.”</i>
-</p>
