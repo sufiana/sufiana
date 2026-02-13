@@ -11,7 +11,7 @@
   </em>
 </p>
 
----
+
 ## 💻 Tech Stack
 
 ### 🖥️ Languages & Core  
@@ -31,16 +31,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> &nbsp;
 </p>
 
----
+
 ## 🤝 Let's Connect
+I’m always excited to collaborate on meaningful projects or exchange fresh ideas. Let’s connect and build something impactful together!"
 
 <p align="left"> 
   <!-- WhatsApp --> 
-    <a href="https://t.me/username" target="_blank"> 
+    <a href="https://t.me/sufianaaiza" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" alt="Telegram"/> 
     </a> &nbsp;&nbsp;&nbsp; <!-- Gmail --> 
-    <a href="mailto:youremail@gmail.com" target="_blank"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Logo.svg" width="40" alt="Gmail"/> 
+    <a href="mailto:sufiana.az15@gmail.com" target="_blank"> 
+      <img src="https://www.svgrepo.com/show/503011/envelope-circle.svg" width="40" alt="Email"/>    
     </a> 
 </p>
 
